@@ -1,0 +1,17 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "w40141", email = "w.40141@gmail.com"},
+]
+dependencies = [
+    "pulp>=2.7.0",
+    "numpy>=1.25.2",
+    "pandas>=2.1.0",
+    "jupyterlab>=4.0.6",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
